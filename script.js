@@ -1,5 +1,5 @@
 $(".type-wrap span:last").typed({
-	strings: ["<strong>^1000 西西</strong> <br>恒河沙数一般的人海中<br> 很高兴遇见你呢!"],
+	strings: ["<strong>^1000 李静</strong> <br>恒河沙数一般的人海中<br> 很高兴遇见你呢!"],
 	typeSpeed: 100,
 	loop: true,
 	contentType: 'html'
